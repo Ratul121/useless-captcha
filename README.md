@@ -128,8 +128,8 @@ This project provides a minimal Node.js implementation showing the end-to-end au
 
 ### 2. Setup
 ```bash
-git clone https://github.com/your-username/nctb-result.git
-cd nctb-result
+git clone https://github.com/Ratul121/useless-captcha.git
+cd useless-captcha
 npm install
 ```
 
