@@ -19,7 +19,7 @@ Prompt used: *"what are the 4 digits written on paper from left to right? there 
 
 - **Bots win, humans lose:** accessibility problems, mistyped digits on mobile, and frustration during traffic spikes.
 - **Server cost, no protection:** generating images per visitor burns CPU and session state.
-- **Near-zero attack cost:** ~200 input + ~10 output tokens per solve with `google/gemma-4-26b-a4b-it` means **~$0.106 per 10,000 solves**, versus $1–3 per 1,000 for human solving farms.
+- **Near-zero attack cost:** \~200 input + \~10 output tokens per solve with `google/gemma-4-26b-a4b-it` means **\~$0.106 per 10,000 solves**, versus $1–3 per 1,000 for human solving farms.
 
 ## Benchmark
 
