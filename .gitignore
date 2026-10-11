@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment files containing secrets
+.env
+.env.*
+!.env.example
+
+# Local session tokens & browser artifacts
+session.json
+
+# Temporary logs & images
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# OS metadata
+.DS_Store
+Thumbs.db
