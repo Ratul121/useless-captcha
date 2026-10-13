@@ -1,6 +1,8 @@
+<div align="center">
+
 # Distorted CAPTCHAs Are Obsolete
 
-> A security research case study: off-the-shelf multimodal AI solves distorted-digit CAPTCHAs in ~2 seconds.
+> A security case study: off-the-shelf multimodal AI solves distorted-digit CAPTCHAs in ~2 seconds.
 
 <p align="center">
   <img src="assets/captcha-1.jpg" alt="CAPTCHA sample 1" height="60" />
@@ -12,6 +14,8 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-v20%2B-green.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
 
 ## TL;DR
 
